@@ -1,5 +1,5 @@
 body{
-	background:#ffa600;
+	background:#837A79;
 	font-family:"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 	height:100%
 	}
@@ -16,20 +16,20 @@ h1,h2,h3{
 	text-transform:ippercase;
 	}
 #seconds,#items{
-	font-size2em;
+	font-size: 20px;
 	}
 button{
 	-moz-border-radius:5px;
 	-webkit-border-radius:5px;
 	border-radius:5px;
 	-khtml-border-radius:5px;
-	background#ffa600;
-	color:#ffffff;
-	border:solid 1px #ffffff;
+	background#837A79;
+	color:#000000;
+	border:solid 2px #C0C0C0;
 	text-decoration:none;
 	cursor:pointer;
-	font-size1.2em;
-	padding:18px,10px;
+	font-size: 12px;
+	padding:15px 30px;
 	width180px;
 	margin10px;
 	outline:none;
